@@ -80,3 +80,13 @@
         }
     }
 }
+
+.flex-center {
+    display: flex;
+    align-items: center;
+}
+
+.flex-center-horizontal {
+    display: flex;
+    justify-content: center;
+}
